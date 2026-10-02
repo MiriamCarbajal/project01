@@ -10,5 +10,5 @@ A simple webpage that guides all level of experience in caring for their plants 
 
 ## Link 
 
-* Live Website: 
-* Document Folder: 
+* Live Website: https://miriamcarbajal.github.io/project01/
+* Document Folder: https://github.com/MiriamCarbajal/project01/tree/main/docs
